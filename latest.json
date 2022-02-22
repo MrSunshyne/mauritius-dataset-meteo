@@ -1,0 +1,72 @@
+[
+  {
+    "day": "Sun",
+    "date": "Feb 20",
+    "condition": "Gusty. Heavy intermittent rain with TS.",
+    "min": "21°",
+    "max": "29°",
+    "wind": "ENE45G90",
+    "sea condition": "very rough",
+    "probability": "High"
+  },
+  {
+    "day": "Mon",
+    "date": "Feb 21",
+    "condition": "Passing showers, mod at times",
+    "min": "21°",
+    "max": "30°",
+    "wind": "NE35G70",
+    "sea condition": "very rough",
+    "probability": "High"
+  },
+  {
+    "day": "Tue",
+    "date": "Feb 22",
+    "condition": "Passing showers, mod a times.",
+    "min": "21°",
+    "max": "31°",
+    "wind": "ENE25G50",
+    "sea condition": "rough",
+    "probability": "High"
+  },
+  {
+    "day": "Wed",
+    "date": "Feb 23",
+    "condition": "Few passing showers mainly E & CP ",
+    "min": "21°",
+    "max": "32°",
+    "wind": "E25G50",
+    "sea condition": "rough",
+    "probability": "Medium"
+  },
+  {
+    "day": "Thu",
+    "date": "Feb 24",
+    "condition": "Few morning showers highgrounds",
+    "min": "20°",
+    "max": "33°",
+    "wind": "ESE20",
+    "sea condition": "rough",
+    "probability": "Medium"
+  },
+  {
+    "day": "Fri",
+    "date": "Feb 25",
+    "condition": "Few afternoon localised showers W, NW & CP.",
+    "min": "19°",
+    "max": "33°",
+    "wind": "ESE15",
+    "sea condition": "moderate",
+    "probability": "Low"
+  },
+  {
+    "day": "Sat",
+    "date": "Feb 26",
+    "condition": "Few localised showers W, NW & CP.",
+    "min": "19°",
+    "max": "33°",
+    "wind": "ESE15",
+    "sea condition": "moderate",
+    "probability": "Low"
+  }
+]
