@@ -1,4 +1,4 @@
-# Mauritius Meteo Prices Dataset
+# Mauritius Meteo Dataset
 
 This repo keep an updated dataset of the Mauritius Meteo
 
